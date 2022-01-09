@@ -1,0 +1,1 @@
+# MNIST: compare a pair of numbers 
